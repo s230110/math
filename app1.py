@@ -31,4 +31,4 @@ if st.button('양수일까 음수일까?'):
        elif a < 0:
               st.write('음수입니다')
        else:
-              st.write('양수도 음수도 아닙니다')
+              st.write('0입니다')
